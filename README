@@ -1,0 +1,5 @@
+Correct answer is option f.
+
+We cannot do a direct function call from class A to class C without creating a new instance of class C because the super keyword can be used only to get through the parent class and we cannot use super keyword twice as given in the options as it is not the valid syntax.
+It is possible only if we create an instance of class C.
+
